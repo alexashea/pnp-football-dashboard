@@ -1,5 +1,9 @@
-# pnp-football-dashboard
-A webpage for organizing a Pen and Paper Football league
+[![CodeQL](https://github.com/alexashea/pnp-football-dashboard/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/alexashea/pnp-football-dashboard/actions/workflows/github-code-scanning/codeql)
+[![ESLint](https://github.com/alexashea/pnp-football-dashboard/actions/workflows/eslint.yml/badge.svg)](https://github.com/alexashea/pnp-football-dashboard/actions/workflows/eslint.yml)
+[![pages-build-deployment](https://github.com/alexashea/pnp-football-dashboard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/alexashea/pnp-football-dashboard/actions/workflows/pages/pages-build-deployment)
+
+# Pen and Paper Football Dashboard
+A webpage for organizing a Pen and Paper Football league.
 
 ## Development - Getting Started with Create React App
 
