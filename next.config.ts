@@ -1,7 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: 'export'
+  basePath: '/pnp-football-dashboard',
+  output: 'export',
+  reactProductionProfiling: true
 };
 
 export default nextConfig;
